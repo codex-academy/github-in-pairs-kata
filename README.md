@@ -40,7 +40,7 @@ Pair with another coder and do this GitHub kata. This kata will teach you a work
 
 * Pull from GitHub using : `git pull`
 * Add a div to index.html with a className of `theMessage`
-* Style `theMessage` div to height of `5em` and a with of `10em` and a different color to your pages color.
+* Style `theMessage` div to height of `5em` and a width of `10em` and a different color to your pages color.
 
 ## Now both at the same time
 
